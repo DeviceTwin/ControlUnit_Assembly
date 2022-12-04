@@ -1,2 +1,3 @@
-# ControlUnit_Assembly
-Control unit assembly contain exploded view drawing and BOM list of Control unit.
+# LEDControl_Assembly
+LED Control assembly is part of LEDControl project.<br>
+ControlUnit_Assembly2 contain exploded view where is shows all parts and components of LED Control.
